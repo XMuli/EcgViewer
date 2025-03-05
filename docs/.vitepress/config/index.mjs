@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "ECG Analyzer",
-  description: "EcgAnalyzer / ECG / Viewer / Analyse / Cross-platform / 心电图 / 截图 / 推荐", // seo 的优化
-  // base: '/EcgAnalyzer/',    // https://xmuli.tech/EcgAnalyzer 且去掉 CNAME 文件后
-  base: '/',                  // https://EcgAnalyzer.xmuli.tech 和 CNAME 文件
+  title: "EcgViewer",
+  description: "EcgViewer / ECG / Viewer / Analyse / Cross-platform / 心电图 / 截图 / 推荐", // seo 的优化
+  // base: '/EcgViewer/',    // https://xmuli.tech/EcgViewer 且去掉 CNAME 文件后
+  base: '/',                  // https://EcgViewer.xmuli.tech 和 CNAME 文件
   head: [['link', { rel: 'icon', href: 'images/favicon.ico' }]],
 
   locales: {
@@ -23,52 +23,44 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: 'ECG Analyzer',                 // 站点标题
+    siteTitle: 'EcgViewer',                 // 站点标题
     logo: '/images/logo/logo.svg',      // 站点 logo
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: '⚔Platform', link: '/article/supportp_platform' },  // 文件夹不指定则默认加载 index.md
+      // { text: '⚔Platform', link: '/article/supportp_platform' },  // 文件夹不指定则默认加载 index.md
       { text: 'Feedback', link: '/article/suggest_feedback' },
       // {
       //   text: 'Docs', items: [
       //     { text: 'Development Experience', link: '/article/how_develop_it' },
       //     { text: 'Code open Source', link: 'https://github.com/SunnyScreenshot' },
       //     { text: 'Change Log', link: 'https://txc.qq.com/products/649489/change-log' },
-      //     // { text: 'Wiki', link: 'https://github.com/XMuli/EcgAnalyzer/wiki' },
+      //     // { text: 'Wiki', link: 'https://github.com/XMuli/EcgViewer/wiki' },
       //   ],
       // },
-      { text: 'Internalization', link: 'https://github.com/SunnyScreenshot/translations' }
+      // { text: 'Internalization', link: 'https://github.com/SunnyScreenshot/translations' }
     ],
 
     sidebar: [
       {
-        text: 'Catalogue',
+        text: 'Catalogue [English]',
         items: [
-          { text: 'Download', link: 'https://github.com/XMuli/EcgAnalyzer/releases' },
+          { text: 'Download', link: 'https://github.com/XMuli/EcgViewer/releases' },
           { text: 'Feature', link: '/feature' },
-          { text: 'Platform', link: '/article/supportp_platform' },
-          { text: 'Feedback', link: '/article/suggest_feedback' },
-          { text: 'Development Experience', link: '/article/how_develop_it' },
-          { text: 'Acknowledgement', link: '/acknowledgement' },
         ]
       },
       {
-        text: '目录',
+        text: '目录 [中文]',
         items: [
-          { text: '官网下载', link: 'https://github.com/XMuli/EcgAnalyzer/releases' },
+          { text: '官网下载', link: 'https://github.com/XMuli/EcgViewer/releases' },
           { text: '特色功能', link: '/feature' },
-          { text: '架构平台', link: '/article/supportp_platform' },
-          { text: '建议反馈', link: '/article/suggest_feedback' },
-          { text: '开发经验', link: '/article/how_develop_it' },
-          { text: '鸣    谢', link: '/acknowledgement' },
         ]
       }
     ],
 
     socialLinks: [
       // { icon: 'twitter', link: 'https://twitter.com/xmulite' },
-      { icon: 'github', link: 'https://github.com/XMuli/EcgAnalyzer' },
+      { icon: 'github', link: 'https://github.com/XMuli/EcgViewer' },
       {
         icon: {
           svg: '<svg t="1716911889837" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2610" width="32" height="32"><path d="M679.424 746.861714l84.004571-395.995428c7.424-34.852571-12.580571-48.566857-35.437714-40.009143l-493.714286 190.281143c-33.718857 13.129143-33.133714 32-5.705142 40.557714l126.281142 39.424 293.156572-184.576c13.714286-9.142857 26.294857-3.986286 16.018286 5.156571l-237.129143 214.272-9.142857 130.304c13.129143 0 18.870857-5.705143 25.709714-12.580571l61.696-59.428571 128 94.281142c23.442286 13.129143 40.009143 6.290286 46.299428-21.723428zM1024 512c0 282.843429-229.156571 512-512 512S0 794.843429 0 512 229.156571 0 512 0s512 229.156571 512 512z" fill="#515151" p-id="2611"></path></svg>'

@@ -2,11 +2,11 @@
 [[toc]]
 
 ## Describe
-EcgAnalyzer is a simple, modern and beautiful ECG viewing and analyzing software with cross-platform support.
+EcgViewer is a simple, modern and beautiful ECG viewing and analyzing software with cross-platform support.
 
-[<img src="https://img.shields.io/github/release/XMuli/EcgAnalyzer.svg?label=version" alt="tags"/>](https://github.com/XMuli/EcgAnalyzer/releases)
+[<img src="https://img.shields.io/github/release/XMuli/EcgViewer.svg?label=version" alt="tags"/>](https://github.com/XMuli/EcgViewer/releases)
 
-<!-- [<img src="https://img.shields.io/github/downloads/XMuli/EcgAnalyzer/total" alt="Total Downloads" />](https://github.com/XMuli/EcgAnalyzer/releases) -->
+<!-- [<img src="https://img.shields.io/github/downloads/XMuli/EcgViewer/total" alt="Total Downloads" />](https://github.com/XMuli/EcgViewer/releases) -->
 
 
 ## Featured Functions
@@ -43,7 +43,7 @@ Friendly to medical professionals. ﮩـﮩﮩ٨ـ🫀ﮩ٨ـﮩﮩ٨ـ  ❤️ 
 ---
 
 ## 描述
-EcgAnalyzer 是一款简单，现代且漂亮的 ECG 查看和分析的软件，支持跨平台。
+EcgViewer 是一款简单，现代且漂亮的 ECG 查看和分析的软件，支持跨平台。
 
 ## 特色功能
 
@@ -67,7 +67,7 @@ EcgAnalyzer 是一款简单，现代且漂亮的 ECG 查看和分析的软件，
 对医学相关人员友好。 ﮩـﮩﮩ٨ـ🫀ﮩ٨ـﮩﮩ٨ـ  ❤️ 👨🏻‍⚕️
 
   ## Code Signing Certificate 🎉
-> Downloading from GitHub [Release](https://github.com/XMuli/EcgAnalyzer/releases) is highly recommended for the fastest and most stable updates. 
+> Downloading from GitHub [Release](https://github.com/XMuli/EcgViewer/releases) is highly recommended for the fastest and most stable updates. 
 
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202407300103175.png" width="300"/>

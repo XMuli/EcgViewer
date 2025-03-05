@@ -7,11 +7,5 @@ If you have any suggestions for new features, feedback on bugs, participation in
 <br>
 
 ### English
-- [Issues](https://github.com/XMuli/EcgAnalyzer/issues)
-- [Discord](https://discord.gg/4TQkfh79gN)
-
-### 中文
-
-- [中文讨论组，推荐](https://txc.qq.com/products/649489)
--  [![alt text](https://img.shields.io/badge/QQ_群-418103279-brightgreen)](https://qm.qq.com/q/X6tar2pWWk)
+- [Issues](https://github.com/XMuli/EcgViewer/issues)
 
