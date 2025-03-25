@@ -26,21 +26,25 @@
 
 EcgViewer is a simple and smart ECG waveform viewer with customizable annotation tags for Windows.
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202407162327370.png" width="100%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202503252105392.png" width="100%"/>
 
 ### Site
 
 📢 **Official website:** [EcgViewer](https://EcgViewer.xmuli.tech)   **website:** [GitHub](https://github.com/XMuli/EcgViewer/releases)
 
-
 **Feedback & Suggest:** bug or new features, leave a message in [Issues](https://github.com/XMuli/EcgViewer/issues);
 
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202503252106495.svg" width="50%"/>
 
 <br>
 
-## Code Signing Certificate 🎉
+## Download / 下载 🎉
 
-Downloading from GitHub [Release](https://github.com/XMuli/EcgViewer/releases) is highly recommended for the fastest and most stable updates. After downloading the file, right-click on the file's properties to verify its uniqueness and make sure the file has not been tampered with;
+[A trial version](https://github.com/XMuli/EcgViewer/releases) is available for download directly from GitHub Release (not available after the expiration date). You can also download the Microsoft Store version directly without any limitations.
+
+可直接在 GitHub 下载  [试用版本](https://github.com/XMuli/EcgViewer/releases)（逾期不可使用）。也可直接下载微软商店版本，无任何限制。
+
+[<img src="https://get.microsoft.com/images/zh-cn%20dark.svg" width="300"/>](https://apps.microsoft.com/detail/9MTVQNQ31GPD?mode=direct)
 
 
 <br>
@@ -51,19 +55,16 @@ Downloading from GitHub [Release](https://github.com/XMuli/EcgViewer/releases) i
   - Viewer ECG
   - Custom annotations tags
   - Security offline
-
 - **Cross-platform porting**
   - Windows 7 / 8 / 10 / 11
+  - Linux Ubuntu 20.04 - 24.10 etc. (Support) 
+  - MacOS (Support) 
 
-<!-- - **App Store**
-  - Microsoft Store -->
 
-<!-- ## internalisation
 
-Translation of documents, submission of PR →  [*.ts](https://github.com/XMuli/EcgViewer/tree/master/translations) -->
-<!-- 
-<br>
+## Note
 
-## Acknowledgement 
+If you need MacOS (Intel, M-chip), Linux (Deepin / UOS / Ubuntu 20.04 - 24.10, etc.), please contact [me](mailto:xmulitech@gmail.com) for customized sending of binary programs! 
 
-I'm very happy, there are also partners who help to improve, extremely grateful 🙇‍ -->
+若需要 MacOS(因特尔，M芯片)、Linux(Deepin / UOS / Ubuntu 20.04 - 24.10 等)，请联系[我](mailto:xmulitech@gmail.com)定制二进制程序
+
