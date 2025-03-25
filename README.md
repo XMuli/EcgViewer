@@ -24,9 +24,14 @@
 
 ### Describe
 
-EcgViewer is a simple and smart ECG waveform viewer with customizable annotation tags for Windows.
+EcgViewer is a simple and smart ECG waveform viewer with customizable annotation tags for Windows. [video_demo.mp4](docs/public/demo.mp4)
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2024/202503252105392.png" width="100%"/>
+
+<video width="100%" height="100%" controls>
+  <source src="docs/public/demo.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
 ### Site
 
@@ -66,5 +71,5 @@ EcgViewer is a simple and smart ECG waveform viewer with customizable annotation
 
 If you need MacOS (Intel, M-chip), Linux (Deepin / UOS / Ubuntu 20.04 - 24.10, etc.), please contact [me](mailto:xmulitech@gmail.com) for customized sending of binary programs! 
 
-若需要 MacOS(因特尔，M芯片)、Linux(Deepin / UOS / Ubuntu 20.04 - 24.10 等)，请联系[我](mailto:xmulitech@gmail.com)定制二进制程序
+若需要 MacOS(Intel, M芯片)、Linux(Deepin / UOS / Ubuntu 20.04 - 24.10 等)，请联系[我](mailto:xmulitech@gmail.com)定制二进制程序
 
